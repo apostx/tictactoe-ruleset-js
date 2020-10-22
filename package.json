@@ -1,0 +1,17 @@
+{
+    "name": "tictactoe-ruleset-js",
+    "description": "Tic-Tac-Toe Ruleset",
+    "version": "0.0.1",
+    "author": "apostx",
+    "license": "MIT",
+    "repository": "github:apostx/tictactoe-ruleset-js",
+    "engines": {
+        "node": ">=8.3.0"
+    },
+    "files": [
+        "LICENSE",
+        "Readme.md",
+        "index.js",
+        "lib/"
+    ]
+}
